@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elevate.AI
 
 Elevate.AI is a multi-agent, AI-powered system that guides users in their career readiness and academic learning journey. The platform leverages the Groq API to provide intelligent assistance through specialized agents.
@@ -201,3 +202,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Groq](https://groq.com) for providing the AI API
 - [Flask](https://flask.palletsprojects.com/) for the web framework
 - All contributors to the project
+=======
+# Elevate-Ai
+Agentic Ai based Resume Analyzer and carrer and interview testing platform
+>>>>>>> 3bfd9d7e1d36f56065fdc6b37bbc81836ac90496
