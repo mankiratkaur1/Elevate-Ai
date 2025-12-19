@@ -3,6 +3,11 @@
 
 Elevate.AI is a multi-agent, AI-powered system that guides users in their career readiness and academic learning journey. The platform leverages the Groq API to provide intelligent assistance through specialized agents.
 
+## 🎥 Project Demo Video
+
+▶️ Working demo of the project:  
+https://drive.google.com/file/d/1C51JCmVrsdC_i5II6iCevdDrXjA8YiUx/view?usp=sharing
+
 ## Project Overview
 
 Elevate.AI consists of two major modules:
